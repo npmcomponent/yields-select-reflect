@@ -1,0 +1,14 @@
+{
+  "name": "yields-select-reflect",
+  "description": "Reflect native <select> to yields/select instance.",
+  "version": "0.1.0",
+  "keywords": [
+    "select-reflect"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "component-each": "git://github.com/npmcomponent/component-each.git",
+    "component-query": "git://github.com/npmcomponent/component-query.git"
+  },
+  "license": "MIT"
+}

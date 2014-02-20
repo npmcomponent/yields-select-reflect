@@ -3,8 +3,8 @@
  * dependencies
  */
 
-var query = require('query');
-var each = require('each');
+var query = require('component-query');
+var each = require('component-each');
 
 /**
  * Export `reflect`
